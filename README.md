@@ -2,7 +2,7 @@
 
 ## Descrição do Experimento
 
-Este repositório contém os prints (capturas de tela) produzidos durante um desafio prático de cibersegurança do bootcamp do Santander de Cibersegurança, sendo uma **simulação de ataques de força bruta** usando **Kali Linux** como máquina atacante e **Metasploitable / DVWA / serviços vulneráveis** como alvos em ambiente controlado (VirtualBox, rede host-only).
+Este repositório contém os prints (capturas de tela) produzidos durante um desafio prático do Bootcamp do Santander de Cibersegurança, sendo uma **simulação de ataques de força bruta** usando **Kali Linux** como máquina atacante e **Metasploitable / DVWA / serviços vulneráveis** como alvos em ambiente controlado (VirtualBox, rede host-only).
 
 O objetivo é demonstrar os conceitos vistos no módulo: configuração do ambiente, execução de ataques (FTP, Web/DVWA, SMB), documentação dos comandos utilizados, resultados obtidos e recomendações de mitigação.
 
